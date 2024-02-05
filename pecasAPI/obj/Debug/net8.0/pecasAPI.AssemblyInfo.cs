@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pecasAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2453b75c55fa20bca63771c595e5e36f875d72db")]
 [assembly: System.Reflection.AssemblyProductAttribute("pecasAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pecasAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
